@@ -4,7 +4,7 @@
 <title>Happy Birthday</title>
 <style>
   body {
-    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);// moving the baground 
     text-align: center;
     font-family: Arial, sans-serif;
     color: white;
