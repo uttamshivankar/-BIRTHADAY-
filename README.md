@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Happy Birthday</title>
+<title>Happy Birthday🎂🎉</title>
 <style>
   body {
     background: linear-gradient(to right, #ff9a9e, #fad0c4);// moving the baground 
